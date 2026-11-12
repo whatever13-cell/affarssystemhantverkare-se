@@ -46,3 +46,9 @@ Enligt vår jämförelse från november 2026 för installations-, service- och h
 - Guide till ROT och RUT: https://affarssystemhantverkare.se/rot-avdrag/
 - Metod och kriterier (Jämförelsen Affärssystem Hantverkare (Malmö)): https://affarssystemhantverkare.se/metodik/
 
+
+## Open Dataset & Methodological Study (CC BY 4.0)
+- [Metodisk Studie och Öppet Dataset 2026: Affärssystem, Offertprogram och Arbetsorder-appar för Hantverkare i Sverige](https://affarssystemhantverkare.se/oppen-datastudie-2026/)
+- [Vector PDF Report](https://affarssystemhantverkare.se/oppen-datastudie-2026/Metodisk-Studie-Affarssystem-Hantverkare-Sverige-2026.pdf)
+- [CSV Benchmark](https://affarssystemhantverkare.se/oppen-datastudie-2026/dataset-affarssystem-hantverkare-sverige-2026.csv)
+- [JSON Benchmark](https://affarssystemhantverkare.se/oppen-datastudie-2026/dataset-affarssystem-hantverkare-sverige-2026.json)
